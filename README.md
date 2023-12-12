@@ -17,6 +17,10 @@ Anda dapat mengakses portofolio ini dengan membuka file `index.html` di peramban
 2. Buka file `index.html` menggunakan peramban web untuk melihat hasilnya.
 3. Modifikasi file HTML dan CSS untuk menyesuaikan portofolio sesuai keinginan Anda.
 
+## Tampilan
+![Screenshot Portofolio](img/bank.png)
+
+
 ## Penutup
 Portofolio ini adalah langkah pertama saya dalam mempelajari pengembangan web dengan HTML dan CSS. Ini merupakan proyek yang sederhana namun bermanfaat untuk memperlihatkan kemampuan dasar saya dalam mengembangkan halaman web.
 
