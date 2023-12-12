@@ -18,7 +18,7 @@ Anda dapat mengakses portofolio ini dengan membuka file `index.html` di peramban
 3. Modifikasi file HTML dan CSS untuk menyesuaikan portofolio sesuai keinginan Anda.
 
 ## Tampilan
-![Screenshot Portofolio](img/bank.png)
+![Screenshot Portofolio](ss_first_portofolio.png)
 
 
 ## Penutup
